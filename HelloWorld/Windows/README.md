@@ -12,13 +12,10 @@ wsl --install
 
 Restart your computer if prompted.
 
-## 2. Open your WSL distribution
-
-Launch your WSL distribution (e.g. Ubuntu from the Start Menu or via Windows Terminal).
-
-## 3. Configure VS Code (optional)
+## 2. Configure VS Code (optional)
 
 If you use VS Code, install the **WSL** extension and open your repository using the WSL profile.
+Additionally I can reccommend the [NASM Language Support](https://marketplace.visualstudio.com/items?itemName=doinkythederp.nasm-language-supports) Extension. Make sure to set the output format to elf64 in the extension settings
 
 ## 4. Clone the repository inside WSL
 
