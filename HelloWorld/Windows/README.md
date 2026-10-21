@@ -33,11 +33,3 @@ Inside your WSL environment, your assembly code runs as a native Linux binary. F
 
 - **Intel / AMD (`x86_64`)**: [Linux x86_64 Setup & Syscall Reference](../Linux/x86_64/README.md)
 - **ARM (`arm64` / `aarch64`)**: [Linux ARM64 Setup & Syscall Reference](../Linux/arm64/README.md)
-
-### Running the Task Program
-
-From inside your WSL terminal:
-
-```bash
-./displayfile example.txt
-```
